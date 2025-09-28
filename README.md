@@ -16,7 +16,7 @@
 - **🗄 Databases:** MySQL, SQL  
 - **🛠 Developer Tools:** Git, Eclipse, Visual Studio Code, Spring Tool Suite, Postman, Maven  
 - **🌐 Web Technologies:** REST APIs, JSON, JSP, Responsive Web Design  
-- **📜 Certifications:** Java Full Stack – Sathya Technologies | Web Development – EdVedha 
+- **📜 Certifications:** Java Full Stack – Sathya Technologies | Web Development – EdVedha
 
 ### 💼 Experience  
 
