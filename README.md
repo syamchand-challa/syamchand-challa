@@ -31,6 +31,6 @@
 
 ### 📫 Connect with Me  
 
-- 💼 [LinkedIn](www.linkedin.com/in/syamchand-challa)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/syamchand-challa/)  
 - 🌐 Portfolio: *Coming Soon*  
 - 📧 Email: syamchandchalla22@gmail.com  
