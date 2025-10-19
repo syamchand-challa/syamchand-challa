@@ -32,5 +32,5 @@
 ### 📫 Connect with Me  
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/syamchand-challa/)  
-- 🌐 Portfolio: *Coming Soon*  
+- 🌐 Portfolio: https://portfolio-syamchand.netlify.app/  
 - 📧 Email: syamchandchalla22@gmail.com  
